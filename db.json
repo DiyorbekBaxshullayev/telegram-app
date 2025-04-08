@@ -1,0 +1,8 @@
+{
+    "cars": [
+      { "id": 1, "model": "Toyota", "price": 50 },
+      { "id": 2, "model": "BMW", "price": 100 }
+    ]
+  }
+
+  
